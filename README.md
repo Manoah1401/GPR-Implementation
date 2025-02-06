@@ -5,13 +5,13 @@
 This project focuses on predicting the S&P 500 index trends from 1928 to 2018 using Gaussian Process Regression (GPR). It covers the implementation of GPR models, both using sklearn's library and manual statistical calculations, to predict stock market trends and gain insights into the strengths and limitations of GPR in economic forecasting.
 
 **Files**
-
-1) Market Returns 1928-2018.csv: Historical S&P 500 dataset used for training and testing the models.
-2) S&P500.ipynb: GPR implementation using the sklearn package.
-3) S&P500_calc.ipynb: GPR implementation using statistical formulas for mean and variance.
-4) noise.ipynb: GPR implementation considering noisy data.
-5) sine_wave.ipynb: GPR prediction on a sine wave using sklearn's GPR package.
-6) sine_wave_calc.ipynb: GPR prediction on a sine wave using statistical calculations.
+1) correc Project Work Report: Project Report for reference
+2) Market Returns 1928-2018.csv: Historical S&P 500 dataset used for training and testing the models.
+3) S&P500.ipynb: GPR implementation using the sklearn package.
+4) S&P500_calc.ipynb: GPR implementation using statistical formulas for mean and variance.
+5) noise.ipynb: GPR implementation considering noisy data.
+6) sine_wave.ipynb: GPR prediction on a sine wave using sklearn's GPR package.
+7) sine_wave_calc.ipynb: GPR prediction on a sine wave using statistical calculations.
 
 **How to Run**
 
